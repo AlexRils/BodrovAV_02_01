@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BodrovAV_02_01</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="geokalk">Геометрический калькулятор</string>
+    <string name="log">Введите логин</string>
+    <string name="pas">Введите пароль</string>
+    <string name="edit">Продолжить</string>
+    <string name="reg">Регестрация</string>
+
+
+</resources>
