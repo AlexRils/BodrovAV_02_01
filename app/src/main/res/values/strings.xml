@@ -9,4 +9,12 @@
     <string name="reg">Регестрация</string>
 
 
+    <string name="kal">Геометрический калькулятор</string>
+    <string name="loginenter">Введите логин</string>
+    <string name="passwordenter">Введите пароль</string>
+    <string name="registr">Начать</string>
+    <string name="vibor">Выбор Фигуры</string>
+    <string name="rez">Выполнить расчет</string>
+    <string name="resultat">Результат</string>
+
 </resources>
